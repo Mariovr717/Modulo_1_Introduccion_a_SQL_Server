@@ -4,7 +4,7 @@ El archivo llamado `Modulo_1_Introduccion_a_SQL_Server.ipynb` no se puede visual
 
 ¡Disfruta aprendiendo sobre SQL Server!
 
-![SQL SEVER](https://surl.li/sldgji)
+![SQL SEVER](https://start-up.pe/wp-content/uploads/2024/04/Microsoft-SQL-Server.png)
 
 
 # Guía de SQL Server
