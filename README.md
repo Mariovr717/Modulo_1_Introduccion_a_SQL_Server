@@ -4,6 +4,9 @@ El archivo llamado `Modulo_1_Introduccion_a_SQL_Server.ipynb` no se puede visual
 
 ¡Disfruta aprendiendo sobre SQL Server!
 
+![SQL SEVER](https://surl.li/sldgji)
+
+
 # Guía de SQL Server
 
 Este documento proporciona una guía completa sobre SQL Server, incluyendo su instalación, configuración y conceptos básicos.
